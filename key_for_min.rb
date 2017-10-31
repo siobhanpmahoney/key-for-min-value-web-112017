@@ -18,14 +18,3 @@ def key_for_min_value(name_hash)
    end
    name_hash.key(possible_lowest_val)
  end
-
-
-
-
-
-   name_array.each do |val|
-
-   i = 0
-   while i < name_array.length
-     if name_array
-end
